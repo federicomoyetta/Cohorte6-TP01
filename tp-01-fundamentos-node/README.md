@@ -26,5 +26,5 @@ Se genera el archivo en la ruta definida ---> salida\ficha-videojuego.txt
    - Una instrucción No Bloqueante permite que el código se siga ejecutando mientras la instrucción se resuelve, ésto se utiliza para no generar demoras en las respuestas de los programas.
 
 4. ¿Qué responsabilidades cumplen node:path y node:fs en index.js ?
-   - Node:path lee la ruta en la que el programa está guardado y ejecutándose.
-   - Node:fs da las herramientas necesarias del File System para poder gestionar, crear carpetas (directorios), crear archivos nuevos, etc.
+   - Node:path -- construye textos que representan ubicaciones.
+   - Node:fs -- realiza operaciones sobre carpetas y archivos.
