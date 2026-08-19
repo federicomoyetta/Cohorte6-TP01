@@ -1,0 +1,7 @@
+FICHA DE VIDEOJUEGO
+=================
+Título: Call of Duty: Modern Warfare II
+Estudio Desarrollador: Infinity Ward
+Año: 2022
+Plataformas: PC, PlayStation, Xbox
+Multijugador: Si
